@@ -1,2 +1,2 @@
 # pizza-hunting-manifesto
-This is a Pizza hunting manifesto, Aimed to guide pizza hunter around the world.
+This is a pizza hunting manifesto, aimed to guide pizza hunters around the world.
